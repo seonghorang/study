@@ -1,6 +1,11 @@
 # study
 
-venv\Scripts\activate
+<!-- venv\Scripts\activate -->
+<br>
+<!-- git pull origin main -->
+<!-- git add . -->
+<!-- git commit -m "" -->
+<!-- git push -u origin main -->
 
 <h3>
 이 repo는 제가 가진 파이썬 언어 이해도 및 문제해결능력을 강화하기 위해 만들어졌습니다.
