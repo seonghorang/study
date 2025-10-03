@@ -1,5 +1,3 @@
-# study
-
 <!-- venv\Scripts\activate -->
 <br>
 <!-- git pull origin main -->
@@ -7,31 +5,51 @@
 <!-- git commit -m "" -->
 <!-- git push -u origin main -->
 
-<h3>
-이 repo는 제가 가진 파이썬 언어 이해도 및 문제해결능력을 강화하기 위해 만들어졌습니다.
-</h3>
+# 📚 My Study Repository
+
+This repository contains my personal study materials and practice projects for coding and data analysis.  
+It includes exercises for Python programming, coding tests, and preparation for the Big Data Analyst certification exam.
+
+---
+
+## 🚀 Goals
+
+- Improve Python programming skills
+- Strengthen problem-solving and algorithmic thinking
+- Prepare for the Big Data Analyst certification exam
+- Keep a personal record of study progress
+
+---
+
+## ✅ Problem List
+
+1. [Average](./CodingTest/Average)
+2. [Even & Odd](./CodingTest/Even&Odd)
+3. [Remove the Smallest Number](./CodingTest/Smallest)
+4. [Flexible Working Hours](./CodingTest/Schedules)
+5. [Delivery Box](./CodingTest/Delivery_box)
+6. [Five People](./CodingTest/Five_people)
+7. [Make an Array 1](./CodingTest/Array1)
+8. [Make an Array 2](./CodingTest/Array2)
+
+---
+
+## ✅ Sections
+
+1. **CodingTest** — Python coding test problems
+2. **Python_Preprocessing** — Python data preprocessing exercises
+3. **BigData_Analyst_Exam** — Problems for the Big Data Analyst certification exam
+
+---
+
+## 📝 Notes
+
+- All codes are written for **learning and practice purposes**.
+- Codes will be continuously improved for efficiency and readability.
+- New problems and exercises will be added over time.
+
+---
+
+## 🔧 Tech Stack
 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-
-<br>
-
-## 목차
-
-1. [평균 구하기](./Learn_to_code/Average)
-2. [짝수와 홀수](./Learn_to_code/Even&Odd)
-3. [제일 작은 수 제거하기](./Learn_to_code/Min)
-4. [유연근무제](./Learn_to_code/Schedules)
-5. [택배 상자 꺼내기](./Learn_to_code/Delivery_box)
-6. [5명씩](./Learn_to_code/Five_people)
-7. [배열 만들기 1](./Learn_to_code/Array1)
-8. [배열 만들기 2](./Learn_to_code/Array2)
-9. [폰켓몬](./프로그래머스/lv1/1845. 폰켓몬)
-10. [완주하지 못한 선수](./프로그래머스/lv1/42576. 완주하지 못한 선수)
-11. [모의고사](./프로그래머스/lv1/42840. 모의고사)
-12. [숫자 문자열과 영단어](./프로그래머스/lv1/81301. 숫자 문자열과 영단어)
-13. [접미사 배열](./프로그래머스/unrated/181909. 접미사 배열)
-14. [글자 이어 붙여 문자열 만들기](./프로그래머스/unrated/181915. 글자 이어 붙여 문자열 만들기)
-
-## 참고
-
-이 코드들은 학습과 연습 목적으로 작성되었습니다. 효율적이고 정확한 코드 작성을 위해 계속해서 개선해 나갈 예정입니다.
