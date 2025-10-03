@@ -24,6 +24,7 @@ It serves as a portfolio of my learning progress and problem-solving skills.
 ## ✅ Problem List
 
 #### 🖥️ CodingTest
+
 1. [Average](./CodingTest/Average)
 2. [Even & Odd](./CodingTest/Even&Odd)
 3. [Remove the Smallest Number](./CodingTest/Smallest)
@@ -34,29 +35,33 @@ It serves as a portfolio of my learning progress and problem-solving skills.
 8. [Make an Array 2](./CodingTest/Array2)
 
 #### 🏗️ IBM
+
 1. [Webscraping](./IBM/Webscraping)
 2. [DB](./IBM/DB)
 3. [ETL](./IBM/ETL)
 4. [Hands-on_Lab](./IBM/Hands-on_Lab)
 
 #### 📊 Bigdata_Analyst_Exam
+
 1. [Python_Preprocessing](./Bigdata_Analyst_Exam/Python_Preprocessing)
 2. [Type_1](./Bigdata_Analyst_Exam/Type_1)
 3. [Type_2](./Bigdata_Analyst_Exam/Type_2)
 4. [Type_3](./Bigdata_Analyst_Exam/Type_3)
+
 ---
 
 ## ✅ Sections
 
-1. **CodingTest** — Python coding test problems  
-2. **IBM** — Exercises and projects from IBM Data Engineering courses  
-3. **BigData_Analyst_Exam** — Problems organized by Type 1, Type 2, and Type 3 for the certification exam  
+1. **CodingTest** — Python coding test problems
+2. **IBM** — Exercises and projects from IBM Data Engineering courses
+3. **BigData_Analyst_Exam** — Problems organized by Type 1, Type 2, and Type 3 for the certification exam
 
 ---
 
 ## 📝 Notes
-- All codes are written for **learning and practice purposes**.  
-- Codes will be continuously improved for efficiency and readability.  
+
+- All codes are written for **learning and practice purposes**.
+- Codes will be continuously improved for efficiency and readability.
 - New problems and exercises will be added over time.
 
 ---
