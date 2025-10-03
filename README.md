@@ -1,5 +1,4 @@
 <!-- venv\Scripts\activate -->
-<br>
 <!-- git pull origin main -->
 <!-- git add . -->
 <!-- git commit -m "" -->
